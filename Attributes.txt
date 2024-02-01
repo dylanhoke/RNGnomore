@@ -1,0 +1,91 @@
+Most important are attributes first I will develop a system around
+progressive attribute building that will allow players who take damage to
+have growth in their health pool, players who run jump shoot mine, chop
+pick and fly will have stamina increase accordingly, and those pesky mages
+who use tons and tons of spells will have an increasing manapool. The more
+time you spend in game the more time you will have to be rewarded for your
+efforts! Different tasks around the map may give you boosts to these attri-
+butes so exploration is a must.
+
+Lets talk weapons, weapon skills include armor penetration, swing speed,
+two handed strength, unarmed damage, accuracy, distance, projectile speed,
+multi-shot, special ammo usage, magic damage, magic area damage, lingering
+magic, special spells, mana pool, mana consumption. Each of the class aspects
+will have regeneration rewarded for use of pools as mentioned before. Let's
+iron out some details:
+
+Strength:
+
+Armor Penetration - how well your attacks will pierce through armor which
+reduces the physical damage reduction of your enemy and brings your attacks
+closer to the 100% damage mark.
+
+Swing Speed - How fast 1h and 2h melee weapons are swung and how fast special
+abilities can be used in succession.
+
+Two Handed Strength - The final push for dual wielding 2 handed weapons, which
+reduces Swing Speed to a minimized cap but you have two 2h what more could you
+want?
+
+Unarmed Damage - Just when you thought you weren't going to punch someone right
+in the face
+
+Dexterity:
+
+Accuracy - Usage of the bow will indefinitely increase your chance at a critical
+strike, the longer you use a bow the more likely you are to maximize your
+strike damage with one up to a maximized cap. (Comes with visual confirmation
+in the form of arrows not shooting off into space)
+
+Distance - adjusts the distance you can shoot all ranged weapons up to a
+maximized cap, the more you use your bow the further you can draw string,
+adjusts accuracy.
+
+Projectile speed - This will ultimately effect your aim when using a skillshot
+tree the longer you use your bow in skillshot mode the more effective you will
+become at hitting the target exactly where you are aiming and COULD also give you
+the aim assist effect that will assist your aim when in skillshot mode.
+
+Multi-Shot - the more you use this ability the more accurate your arrows become,
+the smarter your multi-shot grows allowing you to use more arrows more accurately.
+
+Special Ammo Usage - with generic usage of the bow you will gain in hiddne levels
+and eventually trigger a hidden quest to unlock specialized ammo, smoke bombs,
+larger explosive shots and so on.
+
+Intelligence:
+
+Magic Damage - Magic damage is increased based on how frequent spells are used,
+spells could eventually occupy separate schools of magic but we will worry about
+that later
+
+Magic Area Potency - based on how frequent they are used some spells will have a
+chance to spread or impact a larger Area Of Effect.
+
+Lingering Magic - Based on how frequent spells are used some of them will allow
+the spell to linger on the target for an extended period of time. The stronger
+your fire the longer they burn, the stronger the poison the longer they stay
+poisoned and the stronger your heals the more likely they are to Heal Over time
+up to a maximized cap.
+
+Special Spells - The more mana you use the more likely you are to trigger quests
+to unlock special upgraded spells for your crafters or vendors. Fireball -> Fire
+bolt -> fireblast -> eternal fireblast
+
+Mana Consumption - The more your mana bar is depleted the lower your mana
+requirements for each spell become up to a minimized floor.
+
+To Finish this all off lets talk about manapools, and stamina and health bars.
+
+Health - If we implement the Damage numbers of point removed from current health
+pools we can implement a system where the more damage you take the larger your
+pool becomes. Taking 10 points of damage will increase your healthpool from 100
+to 100.001 by the time you've reached the endgame you will have been rewarded
+with a massive tank sized health pool taking thousands of damage or a specified
+amount will guarantee that your character is scarred and healed and stronger than
+before.
+
+Stamina Bars - More things will require stamina, melee, sneaking in stealth,
+holding bows but sitting still in stealth will not, backstab, skillshot, any
+shot will burn stamina, by the endgame you will be a stamina god! Using 10
+points of stamina will increase your stamina pool from 100 to 100.001
