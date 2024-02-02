@@ -1,9 +1,9 @@
-Most important are attributes first I will develop a system around
+Most important are attributes, first I will develop a system around
 progressive attribute building that will allow players who take damage to
-have growth in their health pool, players who run jump shoot mine, chop
+have growth in their health pool, players who run, jump, shoot, mine, chop
 pick and fly will have stamina increase accordingly, and those pesky mages
 who use tons and tons of spells will have an increasing manapool. The more
-time you spend in game the more time you will have to be rewarded for your
+time you spend in game the more time you will have, to be rewarded for your
 efforts! Different tasks around the map may give you boosts to these attri-
 butes so exploration is a must.
 
@@ -15,6 +15,8 @@ will have regeneration rewarded for use of pools as mentioned before. Let's
 iron out some details:
 
 Strength:
+
+Melee Damage - The harder you hit the harder they fall.
 
 Armor Penetration - how well your attacks will pierce through armor which
 reduces the physical damage reduction of your enemy and brings your attacks
@@ -32,9 +34,12 @@ in the face
 
 Dexterity:
 
+Ranged and Stealth Damage - The more time you spend performing stealth and ranged
+attacks the more damage you will do with both.
+
 Accuracy - Usage of the bow will indefinitely increase your chance at a critical
 strike, the longer you use a bow the more likely you are to maximize your
-strike damage with one up to a maximized cap. (Comes with visual confirmation
+strike damage up to a maximized cap. (Comes with visual confirmation
 in the form of arrows not shooting off into space)
 
 Distance - adjusts the distance you can shoot all ranged weapons up to a
@@ -49,7 +54,7 @@ the aim assist effect that will assist your aim when in skillshot mode.
 Multi-Shot - the more you use this ability the more accurate your arrows become,
 the smarter your multi-shot grows allowing you to use more arrows more accurately.
 
-Special Ammo Usage - with generic usage of the bow you will gain in hiddne levels
+Special Ammo Usage - with generic usage of the bow you will gain in hidden levels
 and eventually trigger a hidden quest to unlock specialized ammo, smoke bombs,
 larger explosive shots and so on.
 
@@ -75,9 +80,9 @@ bolt -> fireblast -> eternal fireblast
 Mana Consumption - The more your mana bar is depleted the lower your mana
 requirements for each spell become up to a minimized floor.
 
-To Finish this all off lets talk about manapools, and stamina and health bars.
+To Finish this all off lets talk about mana pools, and stamina and health bars.
 
-Health - If we implement the Damage numbers of point removed from current health
+Health bar - If we implement the Damage point value removed from current health
 pools we can implement a system where the more damage you take the larger your
 pool becomes. Taking 10 points of damage will increase your healthpool from 100
 to 100.001 by the time you've reached the endgame you will have been rewarded
@@ -85,7 +90,9 @@ with a massive tank sized health pool taking thousands of damage or a specified
 amount will guarantee that your character is scarred and healed and stronger than
 before.
 
-Stamina Bars - More things will require stamina, melee, sneaking in stealth,
+Stamina bar - More things will require stamina, melee, sneaking in stealth,
 holding bows but sitting still in stealth will not, backstab, skillshot, any
 shot will burn stamina, by the endgame you will be a stamina god! Using 10
 points of stamina will increase your stamina pool from 100 to 100.001
+
+Mana pool - 
